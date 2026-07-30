@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="111">
+
+    <author>LazyChilla</author>
+    <version>1.0.0.0</version>
+
+    <title>
+        <de>Ballenmaterial Endlos</de>
+        <en>Infinite Bale Consumables</en>
+        <fr>Consommables De Balles Infinis</fr>
+        <it>Materiali Per Balle Infiniti</it>
+        <pt>Consumiveis De Fardos Infinitos</pt>
+        <es>Consumibles De Pacas Infinitos</es>
+    </title>
+
+    <description>
+        <de><![CDATA[Ballennetz, Bindegarn und Wickelfolie werden nicht mehr verbraucht.
+
+Kein Nachfuellen mehr, keine Leer-Warnung, keine Presse die mitten im Schwad stehen bleibt. Gilt automatisch fuer alle Pressen und Ballenwickler, auch fuer Mod-Geraete und auch fuer Geraete, die leer gekauft wurden.
+
+Multiplayer: Muss auf dem Server und bei allen Mitspielern installiert sein.
+
+SUPPORT: Fehler und Wuensche bitte ausschliesslich ueber GitHub melden, immer mit log.txt:
+https://github.com/LazyChilla/FS25_InfiniteBaleConsumables/issues
+Ohne log.txt kann niemand helfen. Kein Support ueber Kommentare auf Download-Seiten.
+]]></de>
+        <en><![CDATA[Bale net, twine and wrapping foil are no longer consumed.
+
+No more refilling, no empty warning, no baler stopping in the middle of a windrow. Applies automatically to all balers and bale wrappers, including modded equipment and machines bought empty.
+
+Multiplayer: Must be installed on the server and by all players.
+
+SUPPORT: Please report bugs and ideas via GitHub only, always with your log.txt:
+https://github.com/LazyChilla/FS25_InfiniteBaleConsumables/issues
+Without the log.txt nobody can help. No support via comments on download sites.
+]]></en>
+        <fr><![CDATA[Le filet, la ficelle et le film d'enrubannage ne sont plus consommes.
+
+Plus de remplissage, plus d'avertissement, plus de presse qui s'arrete au milieu de l'andain. S'applique automatiquement a toutes les presses et enrubanneuses.
+
+Multijoueur : doit etre installe sur le serveur et chez tous les joueurs.
+
+SUPPORT : merci de signaler les bugs et les idees uniquement via GitHub, toujours avec le log.txt :
+https://github.com/LazyChilla/FS25_InfiniteBaleConsumables/issues]]></fr>
+        <it><![CDATA[Rete, spago e pellicola non vengono piu consumati.
+
+Niente piu ricariche, nessun avviso di esaurimento, nessuna pressa che si ferma a meta andana. Vale automaticamente per tutte le presse e fasciatrici.
+
+Multigiocatore: deve essere installato sul server e da tutti i giocatori.
+
+SUPPORTO: segnalare errori e idee solo tramite GitHub, sempre con il log.txt:
+https://github.com/LazyChilla/FS25_InfiniteBaleConsumables/issues]]></it>
+        <pt><![CDATA[Rede, fio e filme de envolvimento deixam de ser consumidos.
+
+Sem reabastecimento, sem aviso de vazio, sem enfardadeira parada a meio da leira. Aplica-se automaticamente a todas as enfardadeiras e envolvedoras.
+
+Multijogador: tem de estar instalado no servidor e em todos os jogadores.
+
+SUPORTE: comunique erros e ideias apenas atraves do GitHub, sempre com o log.txt:
+https://github.com/LazyChilla/FS25_InfiniteBaleConsumables/issues]]></pt>
+        <es><![CDATA[La red, el hilo y el film de encintado ya no se consumen.
+
+Sin recargas, sin aviso de vacio, sin empacadoras paradas en mitad de la hilera. Se aplica automaticamente a todas las empacadoras y encintadoras.
+
+Multijugador: debe estar instalado en el servidor y en todos los jugadores.
+
+SOPORTE: informe de errores e ideas unicamente a traves de GitHub, siempre con el log.txt:
+https://github.com/LazyChilla/FS25_InfiniteBaleConsumables/issues]]></es>
+    </description>
+
+    <iconFilename>icon_InfiniteBaleConsumables.dds</iconFilename>
+
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+        <sourceFile filename="scripts/InfiniteBaleConsumables.lua"/>
+    </extraSourceFiles>
+
+</modDesc>
