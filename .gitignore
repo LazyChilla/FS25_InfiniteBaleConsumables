@@ -1,0 +1,15 @@
+# Arbeitsreste vom Quellcode-Sync (robocopy-Workflow)
+_temp_extract/
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Editor / Backups
+*.bak
+*.tmp
+*~
+
+# Gebaute ZIPs gehoeren ans Release, nicht in den Quellcode-Baum
+*.zip
